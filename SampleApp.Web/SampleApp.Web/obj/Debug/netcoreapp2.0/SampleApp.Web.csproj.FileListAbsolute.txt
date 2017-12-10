@@ -1,0 +1,13 @@
+C:\Users\Kacper\source\repos\MicroService-Architecture-MassTransit\SampleApp.Web\SampleApp.Web\bin\Debug\netcoreapp2.0\SampleApp.Web.deps.json
+C:\Users\Kacper\source\repos\MicroService-Architecture-MassTransit\SampleApp.Web\SampleApp.Web\bin\Debug\netcoreapp2.0\SampleApp.Web.runtimeconfig.json
+C:\Users\Kacper\source\repos\MicroService-Architecture-MassTransit\SampleApp.Web\SampleApp.Web\bin\Debug\netcoreapp2.0\SampleApp.Web.runtimeconfig.dev.json
+C:\Users\Kacper\source\repos\MicroService-Architecture-MassTransit\SampleApp.Web\SampleApp.Web\bin\Debug\netcoreapp2.0\SampleApp.Web.dll
+C:\Users\Kacper\source\repos\MicroService-Architecture-MassTransit\SampleApp.Web\SampleApp.Web\obj\Debug\netcoreapp2.0\SampleApp.Web.csprojResolveAssemblyReference.cache
+C:\Users\Kacper\source\repos\MicroService-Architecture-MassTransit\SampleApp.Web\SampleApp.Web\obj\Debug\netcoreapp2.0\SampleApp.Web.csproj.CoreCompileInputs.cache
+C:\Users\Kacper\source\repos\MicroService-Architecture-MassTransit\SampleApp.Web\SampleApp.Web\obj\Debug\netcoreapp2.0\SampleApp.Web.AssemblyInfoInputs.cache
+C:\Users\Kacper\source\repos\MicroService-Architecture-MassTransit\SampleApp.Web\SampleApp.Web\obj\Debug\netcoreapp2.0\SampleApp.Web.AssemblyInfo.cs
+C:\Users\Kacper\source\repos\MicroService-Architecture-MassTransit\SampleApp.Web\SampleApp.Web\bin\Debug\netcoreapp2.0\SampleApp.Web.pdb
+C:\Users\Kacper\source\repos\MicroService-Architecture-MassTransit\SampleApp.Web\SampleApp.Web\obj\Debug\netcoreapp2.0\SampleApp.Web.dll
+C:\Users\Kacper\source\repos\MicroService-Architecture-MassTransit\SampleApp.Web\SampleApp.Web\obj\Debug\netcoreapp2.0\SampleApp.Web.pdb
+C:\Users\Kacper\source\repos\MicroService-Architecture-MassTransit\SampleApp.Web\SampleApp.Web\bin\Debug\netcoreapp2.0\SampleApp.Messaging.dll
+C:\Users\Kacper\source\repos\MicroService-Architecture-MassTransit\SampleApp.Web\SampleApp.Web\bin\Debug\netcoreapp2.0\SampleApp.Messaging.pdb

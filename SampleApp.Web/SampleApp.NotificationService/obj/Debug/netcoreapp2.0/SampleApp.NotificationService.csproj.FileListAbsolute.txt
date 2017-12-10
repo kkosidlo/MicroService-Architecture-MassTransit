@@ -1,0 +1,13 @@
+C:\Users\Kacper\source\repos\MicroService-Architecture-MassTransit\SampleApp.Web\SampleApp.NotificationService\bin\Debug\netcoreapp2.0\SampleApp.NotificationService.deps.json
+C:\Users\Kacper\source\repos\MicroService-Architecture-MassTransit\SampleApp.Web\SampleApp.NotificationService\bin\Debug\netcoreapp2.0\SampleApp.NotificationService.runtimeconfig.json
+C:\Users\Kacper\source\repos\MicroService-Architecture-MassTransit\SampleApp.Web\SampleApp.NotificationService\bin\Debug\netcoreapp2.0\SampleApp.NotificationService.runtimeconfig.dev.json
+C:\Users\Kacper\source\repos\MicroService-Architecture-MassTransit\SampleApp.Web\SampleApp.NotificationService\bin\Debug\netcoreapp2.0\SampleApp.NotificationService.dll
+C:\Users\Kacper\source\repos\MicroService-Architecture-MassTransit\SampleApp.Web\SampleApp.NotificationService\obj\Debug\netcoreapp2.0\SampleApp.NotificationService.csproj.CoreCompileInputs.cache
+C:\Users\Kacper\source\repos\MicroService-Architecture-MassTransit\SampleApp.Web\SampleApp.NotificationService\obj\Debug\netcoreapp2.0\SampleApp.NotificationService.AssemblyInfoInputs.cache
+C:\Users\Kacper\source\repos\MicroService-Architecture-MassTransit\SampleApp.Web\SampleApp.NotificationService\obj\Debug\netcoreapp2.0\SampleApp.NotificationService.AssemblyInfo.cs
+C:\Users\Kacper\source\repos\MicroService-Architecture-MassTransit\SampleApp.Web\SampleApp.NotificationService\bin\Debug\netcoreapp2.0\SampleApp.NotificationService.pdb
+C:\Users\Kacper\source\repos\MicroService-Architecture-MassTransit\SampleApp.Web\SampleApp.NotificationService\obj\Debug\netcoreapp2.0\SampleApp.NotificationService.csprojResolveAssemblyReference.cache
+C:\Users\Kacper\source\repos\MicroService-Architecture-MassTransit\SampleApp.Web\SampleApp.NotificationService\obj\Debug\netcoreapp2.0\SampleApp.NotificationService.dll
+C:\Users\Kacper\source\repos\MicroService-Architecture-MassTransit\SampleApp.Web\SampleApp.NotificationService\obj\Debug\netcoreapp2.0\SampleApp.NotificationService.pdb
+C:\Users\Kacper\source\repos\MicroService-Architecture-MassTransit\SampleApp.Web\SampleApp.NotificationService\bin\Debug\netcoreapp2.0\SampleApp.Messaging.dll
+C:\Users\Kacper\source\repos\MicroService-Architecture-MassTransit\SampleApp.Web\SampleApp.NotificationService\bin\Debug\netcoreapp2.0\SampleApp.Messaging.pdb

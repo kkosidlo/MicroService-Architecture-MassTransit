@@ -1,0 +1,11 @@
+E:\SimpleTaskManager\SimpleTaskManager\SimpleTaskManager\bin\Debug\netcoreapp2.0\SimpleTaskManager.deps.json
+E:\SimpleTaskManager\SimpleTaskManager\SimpleTaskManager\bin\Debug\netcoreapp2.0\SimpleTaskManager.runtimeconfig.json
+E:\SimpleTaskManager\SimpleTaskManager\SimpleTaskManager\bin\Debug\netcoreapp2.0\SimpleTaskManager.runtimeconfig.dev.json
+E:\SimpleTaskManager\SimpleTaskManager\SimpleTaskManager\bin\Debug\netcoreapp2.0\SimpleTaskManager.dll
+E:\SimpleTaskManager\SimpleTaskManager\SimpleTaskManager\bin\Debug\netcoreapp2.0\SimpleTaskManager.pdb
+E:\SimpleTaskManager\SimpleTaskManager\SimpleTaskManager\obj\Debug\netcoreapp2.0\SimpleTaskManager.csprojResolveAssemblyReference.cache
+E:\SimpleTaskManager\SimpleTaskManager\SimpleTaskManager\obj\Debug\netcoreapp2.0\SimpleTaskManager.csproj.CoreCompileInputs.cache
+E:\SimpleTaskManager\SimpleTaskManager\SimpleTaskManager\obj\Debug\netcoreapp2.0\SimpleTaskManager.AssemblyInfoInputs.cache
+E:\SimpleTaskManager\SimpleTaskManager\SimpleTaskManager\obj\Debug\netcoreapp2.0\SimpleTaskManager.AssemblyInfo.cs
+E:\SimpleTaskManager\SimpleTaskManager\SimpleTaskManager\obj\Debug\netcoreapp2.0\SimpleTaskManager.dll
+E:\SimpleTaskManager\SimpleTaskManager\SimpleTaskManager\obj\Debug\netcoreapp2.0\SimpleTaskManager.pdb

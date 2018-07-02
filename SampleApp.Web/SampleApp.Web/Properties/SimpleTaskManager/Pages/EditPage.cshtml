@@ -1,0 +1,40 @@
+﻿@page "{id:int}"
+
+@using  SimpleTaskManager.Enums
+@model EditPageModel
+@{
+}
+<h2>Edit</h2>
+<form method="post">
+    <table class="table table-bordered" style="width:500px">
+        <tbody>
+
+            <tr>
+                <td>
+                    <label for="txtTaskId">Id</label>
+                    <input id="txtTaskName" disabled="disabled" type="text" asp-for="Task.Id" class="form-control" />
+                    <input asp-for="Task.Id" type="hidden" />
+                    <input asp-for="Task.LastModified" type="hidden" />
+                </td>
+            </tr>
+            <tr>
+                <td>
+                    <label for="txtTaskName">Task name</label>
+                    <input id="txtTaskName" type="text" asp-for="Task.TaskName" class="form-control" />
+                </td>
+            </tr>
+            <tr>
+                <td>
+                    <label asp-for="@Model.Task.Status"></label>
+                    @{
+                var Statuses = Html.GetEnumSelectList<AssignmentStatus>();
+                    }
+                    <select asp-for="@Model.Task.Status" asp-items="Statuses" class="form-control"></select>
+                </td>
+            </tr>
+            <tr>
+                <td colspan="2"><a asp-page="/Index" class="btn btn-primary">Back</a> <input id="Button1" type="submit" value="Save" class="btn btn-primary" />  </td>
+            </tr>
+        </tbody>
+    </table>
+</form>

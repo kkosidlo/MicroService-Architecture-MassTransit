@@ -1,0 +1,19 @@
+﻿@page
+@model SimpleTaskManager.Pages.CreateViewModel
+@{
+    ViewData["Title"] = "Create task";
+}
+
+<h2>Create task</h2>
+
+<form method="post">
+    <div>
+        <div>
+            <label for="txtTaskName">Name :</label><input id="txtTaskName" type="text" asp-for="@Model.Task.TaskName" class="form-control" style="width:250px" />
+        </div>
+        <div style="height:50px;"></div>
+        <div>
+            <input id="btnSave" type="submit" value="Save" class="btn btn-primary" />
+        </div>
+    </div>
+</form>
